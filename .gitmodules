@@ -1,0 +1,3 @@
+[submodule "mod/ead_questao"]
+	path = mod/ead_questao
+	url = git@gitlab.com:socialpro-ead/ead_questao.git
